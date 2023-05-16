@@ -5,6 +5,6 @@
 - I’m currently learning **Python, C#, and Javascript (and a little Lua maybe)**
 - I’m looking for help with **c# and unity**
 - How to reach me:
-    - Discord: Noodle The Axolotl#4752
+    - Discord: noodlotl#4752
     - Steam: noodlotl
 - Pronouns: **he/him**
