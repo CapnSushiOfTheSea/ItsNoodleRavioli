@@ -7,4 +7,4 @@
 - How to reach me:
     - Discord: @noodledx
     - Steam: noodle_lmao
-- Pronouns: **he/him**
+- Pronouns: **any lmfao**
