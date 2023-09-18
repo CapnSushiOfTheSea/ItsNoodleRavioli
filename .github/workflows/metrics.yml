@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: NoodleDX/metrics@latest
+      - uses: NoodleDX/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
